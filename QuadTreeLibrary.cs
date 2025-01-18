@@ -1,4 +1,18 @@
-﻿using System;
+﻿
+/// <summary>
+/// A Quadtree data structure in C# is used for spatial partitioning, which is useful for efficiently querying objects in a 2D space.
+/// </summary>
+/// <remarks>
+/// Author: Bilel Mnasser
+/// Contact: personalhiddenmail@duck.com
+/// GitHub: https://github.com/attributeyielding
+/// website: https://personal-website-resume.netlify.app/#contact
+/// Date: January 2025
+/// Version: 1.0
+/// </remarks>
+
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
